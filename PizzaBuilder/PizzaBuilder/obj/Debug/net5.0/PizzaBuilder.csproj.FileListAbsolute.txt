@@ -1,0 +1,16 @@
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.AssemblyReference.cache
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfoInputs.cache
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfo.cs
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.CoreCompileInputs.cache
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.exe
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.deps.json
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.json
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.dev.json
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.dll
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\ref\PizzaBuilder.dll
+E:\src\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.pdb
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.dll
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\ref\PizzaBuilder.dll
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.pdb
+E:\src\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.genruntimeconfig.cache
